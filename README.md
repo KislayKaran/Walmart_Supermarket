@@ -38,7 +38,7 @@ Retail Data Analytics
 ## Retail Data Analytics
 <img width="1267" alt="retail-data-analytics" src="https://user-images.githubusercontent.com/103312836/186278964-93d9b045-f7d4-496f-9d78-a63b62735363.png">
 
-## Consumer and Closest Store Visualization + Analytics
+## Consumer and Closest Store Visualization 
 <img width="1420" alt="consumer-store-map" src="https://user-images.githubusercontent.com/103312836/186279375-ecefaa54-6706-410a-ba17-14c1138df5b7.png">
 
 
