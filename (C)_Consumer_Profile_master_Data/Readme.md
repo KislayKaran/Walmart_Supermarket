@@ -45,10 +45,16 @@ faker_vehicle is a provider for the Faker Python package.It provides vehicle and
 
 •	User Address : [ Street Address , City , State , Zip ,  Code , Latitude , Longitude ]
  
- #### After creating the Location Data , We are Combining User Profile and family with the User Location Data  to create a  MASTER  DATA
+ #### After creating the Location Data , We are Combining User Profile and family with the User Location Data  to create  MASTER  DATA
  
  #### By Creating Record(s) into DataFrame. Over 100 records generated for each of the 52 States.
  
  #### We then save the Master Data for further references in the project.
+ 
+ ##### •	User Profile
+
+ ##### •	User Address
+
+ ##### •	User Vehicle
  
  
