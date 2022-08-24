@@ -4,7 +4,7 @@ A geotracking profile for each Walmart store data was built using information on
 
 including family members, kids, cars, credit cards, and more.
 
-User, Store and Product Data Generation using Faker and Data Analysis using Pandas and Matplotlib (Plotly).
+User, Store and Product Data Generation using  'FAAKER' and Data Analysis using Pandas and Matplotlib (Plotly).
   
   And we have used Google Collaboratory as our  interactive  Noteboook.
 
