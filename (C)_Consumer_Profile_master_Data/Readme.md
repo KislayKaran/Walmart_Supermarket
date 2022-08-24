@@ -49,7 +49,7 @@ faker_vehicle is a provider for the Faker Python package.It provides vehicle and
  
  #### By Creating Record(s) into DataFrame. Over 100 records generated for each of the 52 States.
  
- #### We then save the Master Data for further references in the project.
+ #### We then save the 3 Master Data for further references in the project.
  
  ##### •	User Profile
 
