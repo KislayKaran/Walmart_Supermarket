@@ -11,22 +11,22 @@ User, Store and Product Data Generation using Faker and Data Analysis using Pand
 ## Project Phases
 
 The project has been sequentially divided and formated into 6 Phases, which are as follows
-###  Phase 1 :
+###  Phase 1 : (A), (B) & (C)
 Generating Profile Master dataset including user info, family, kids, credit cards, salary/earning group, vehicle,
 
 US geo tracable longitude and latitude.
 
 Using actual Walmart stores data
-###  Phase 2 :
+###  Phase 2 : (D)
 Products master data creation
 Using actual product list taken from Instacart super market products list
-###  Phase 3 : 
+###  Phase 3 : (E)
 Stores List with Unique ID Master Data Creation
-###  Phase 4 : 
+###  Phase 4 : (F)
 Purchase History Master Data Creation
-###  Phase 5 :
+###  Phase 5 : (G)
 Data visualization of stores and purchasing users proximity
-###  Phase 6 :
+###  Phase 6 : (H)
 Retail Data Analytics
 
 ## General Data Management
