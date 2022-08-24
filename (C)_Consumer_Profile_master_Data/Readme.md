@@ -5,7 +5,7 @@ Over here we require only one csv file :
 04_c_wm_stores_single_precision_(created_csv) 
 
 
-CSV files
+CSV files:
 
 05_c_user_profile_[(created_csv) using_faker],
 
