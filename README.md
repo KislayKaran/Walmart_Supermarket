@@ -11,22 +11,22 @@ User, Store and Product Data Generation using  'FAAKER' and Data Analysis using 
 ## Project Phases
 
 The project has been sequentially divided and formated into 6 Phases, which are as follows
-###  Phase 1 : (A), (B) & (C)
+###  Phase 1 :  (A)_Walmart_Stores,  (B)_Consumer_Data_Generation  &  (C)_Consumer_Profile_master_Data
 Generating Profile Master dataset including user info, family, kids, credit cards, salary/earning group, vehicle,
 
 US geo tracable longitude and latitude.
 
 Using actual [Walmart Store Data](https://data.world/data-hut/walmart-store-location-dataset/)
-###  Phase 2 : (D)
+###  Phase 2 : (D)_Store_Products
 Products master data creation
 Using actual product list taken from [Instacart super market products list](https://www.kaggle.com/c/instacart-market-basket-analysis)
-###  Phase 3 : (E)
+###  Phase 3 : (E)_Store_master_data
 Stores List with Unique ID Master Data Creation
-###  Phase 4 : (F)
+###  Phase 4 : (F)_Consumer_Purchase
 Purchase History Master Data Creation
-###  Phase 5 : (G)
+###  Phase 5 : (G)_Purchase_with_Stores_Viz
 Data visualization of stores and purchasing users proximity
-###  Phase 6 : (H)
+###  Phase 6 : (H)_Purchase_Analytics
 Retail Data Analytics
 
 ## General Data Management
