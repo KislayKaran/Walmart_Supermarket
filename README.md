@@ -16,10 +16,10 @@ Generating Profile Master dataset including user info, family, kids, credit card
 
 US geo tracable longitude and latitude.
 
-Using actual Walmart stores data
+Using actual [Walmart Store Data](https://data.world/data-hut/walmart-store-location-dataset/)
 ###  Phase 2 : (D)
 Products master data creation
-Using actual product list taken from Instacart super market products list
+Using actual product list taken from [Instacart super market products list](https://www.kaggle.com/c/instacart-market-basket-analysis)
 ###  Phase 3 : (E)
 Stores List with Unique ID Master Data Creation
 ###  Phase 4 : (F)
