@@ -31,7 +31,7 @@ These user profiles are all across the US.
 
 But we will be considering the Purchase history of 5 states only.
 
-['TX','FL','CA','NC','GA']  :   For Texas, Florida, California, North Carolina,Gorgeia State.
+['TX','FL','CA','NC','GA']  :   For Texas , Florida , California , North Carolina ,Gorgeia State.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
