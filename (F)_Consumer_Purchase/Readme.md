@@ -14,7 +14,7 @@ to create 13_c_purchase_history_5_states_[(created_csv) using_faker]
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-### 50 k Products with 4.6 k stores with Users to Genrate Purchase History .
+### 50 k Products with 4.6 k stores with Users to Generate Purchase History .
 
 
 We will be Generating our Actual Purchase History 
