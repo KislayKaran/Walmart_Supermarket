@@ -1,10 +1,12 @@
 # Phase 1 : (A) Walmart Stores
 
-In the United States, Walmart has more than 4800 stores.
+In the United States, Walmart has more than 4600 stores.
 
 Using the MapBox and Plotly data visualization libraries, we can get the store locations as well as render 
 
 these aggregated Walmart store locations on a Geo Map in Python.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 Over here we require the three csv files :
 
