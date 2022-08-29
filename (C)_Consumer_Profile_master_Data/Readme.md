@@ -19,7 +19,7 @@ CSV files:
  
  User Info , Family Members Info , Marital Status , Kids , Credit Card Details , User Income  Group , Vehicle Details , User Address.
  
- #### using 'FAKER' , a Python package that wiil randomly generate fake/dummy data for you.   
+ #### using 'FAKER' , a Python package that will randomly generate fake/dummy data for you.   
 
 
 •	User Info : [ Name , DOB , Age , Phone Number , SSN , UUID , Family ID (10 char) ]
