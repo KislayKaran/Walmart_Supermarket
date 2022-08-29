@@ -4,6 +4,9 @@ Over here we Generate the User Master Dataset that includes
 
 User Info , Family Members Info , Marital Status , Kids , Credit Card Details , User Income  Group , Vehicle Details , User Address 
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+
 Over here we require the two csv files :
  
  02_c_selected_stores_(created_csv) 
