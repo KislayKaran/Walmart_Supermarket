@@ -2,7 +2,7 @@
 
 Over here we Generate the User Master Dataset that includes 
 
-User Info , Family Members Info , Marital Status , Kids , Credit Card Details , User Income  Group , Vehicle Details , User Address 
+User Info , Family Members Info , Marital Status , Kids , Credit Card Details , User Income  Group , Vehicle Details , User Address. 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
